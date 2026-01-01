@@ -1,0 +1,93 @@
+---
+listing:
+  contents:
+    - handstands.qmd
+    - locomotion.qmd
+    - services.qmd
+  type: grid
+---
+<!--___________________________________________________________________|
+|______________________________________________________________________|
+|        _   __   _   _ _   _   _   _         _                        |
+|   |   |_| | _  | | | V | | | | / |_/ |_| | /                         |
+|   |__ | | |__| |_| |   | |_| | \ |   | | | \_                        |
+|    _  _         _ ___  _       _ ___   _                    / /      |
+|   /  | | |\ |  \   |  | / | | /   |   \                    (^^)      |
+|   \_ |_| | \| _/   |  | \ |_| \_  |  _/                    (____)o   |
+|______________________________________________________________________|
+|______________________________________________________________________|
+|                                                                      |
+|----------------------------------------------------------------------|
+|   Copyright 2025, Rebecca Rashkin                                    |
+|   -------------------------------                                    |
+|   This code may be copied, redistributed, transformed, or built      |
+|   upon in any format for educational, non-commercial purposes.       |
+|                                                                      |
+|   Please give me appropriate credit should you choose to use this    |
+|   resource. Thank you :)                                             |
+|----------------------------------------------------------------------|
+|                                                                      |
+|______________________________________________________________________|
+|   //\^.^/\\  //\^.^/\\  //\^.^/\\  //\^.^/\\  //\^.^/\\  //\^.^/\\   |
+|____________________________________________________________________-->
+<!--DESCRIPTION
+|   Homepage for flyingrabbitmovement.com
+|____________________________________________________________________-->
+
+<style>
+
+h1
+{
+  font-size: var(--size-site-title);
+  text-align: center;
+}
+
+subtitle
+{
+  display     : block;
+  color       : var(--flux-fg-mute);
+  font-size   : var(--size-h3);
+  font-family : var(--font-fam-header);
+  text-align  : center;
+}
+
+</style>
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+![](/assets/hs-stag-silhouette.svg)
+:::
+::: {.g-col-12 .g-col-md-6}
+# Movement Makes Me Happy
+<subtitle>It will make you happy too.</subtitle>
+:::
+:::
+
+## Let's Find Your Flow
+
+As a GMB-certified trainer, I offer training options to meet your needs and budget. Whether you want to move with more ease, gain strength, or finally learn that handstand, I can help you get there.
+
+Getting started is the hardest part. All you need to do is decide it’s time for a change, and I will guide you through the rest.
+
+Click below to send me a message and set up a free consultation!
+
+<a class="flux-button _3" href="contact.html">Contact Me</a>
+
+## What Is GMB?
+
+GMB is an outstanding organization providing practical tools to help anyone move with ease and gain strength using only bodyweight. They offer a wealth of free educational content and online programs you can do almost anywhere, without special equipment.
+
+## About Rebecca
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
+I am an engineer and fitness trainer, but most of all, an educator. I am passionate about sharing my knowledge, whether it be about computers or movement. Handstands and locomotion bring me delight, and I find satisfaction in helping others discover this joy for themselves. In addition, I enjoy strength training, rolling around in the grass, and road cycling.
+
+I also really love rabbits 🐰
+:::
+::: {.g-col-12 .g-col-md-4}
+![](/assets/headshot.JPEG)
+:::
+:::
+
+## Explore

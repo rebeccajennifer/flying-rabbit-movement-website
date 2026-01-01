@@ -1,0 +1,36 @@
+---
+title: Locomotion
+subtitle: Movement in 360
+
+listing:
+  contents: locomotion-links.yml
+  type: default
+
+order: 0
+---
+
+## What is Locomotion?
+
+Technically, locomotion is the act of moving from one location to another. To me, it is basically crawling like an animal. This practice allows you to reclaim natural movement patterns that translate directly into your everyday life.
+
+## Why should I crawl like an animal?
+
+Locomotion is one of the most entertaining and efficient ways to develop the three fundamental aspects of physical autonomy: strength, mobility, and motor control.
+
+## What is physical autonomy?
+
+[Physical autonomy](https://gmb.io/physical-autonomy/) is the ability to do all the things that are important to __you__. It might be picking something up off the floor without wincing or playing a neighborhood game of soccer and not feeling broken the next day. No matter what your goals are, locomotion can help you progress toward them.
+
+## What is motor control?
+
+Motor control is the ability to get your body to do exactly what your brain is telling it to do. It is like being able to pat your head and rub your tummy at the same time. Practicing locomotion develops this skill, increasing the __efficiency and ease__ of all your movements.
+
+## How does locomotion do it all?
+
+GMB locomotion uses four basic movements: Bear, Monkey, Frogger, and Crab. There are endless variations of these exercises and ways to link them together. Each movement simultaneously engages the upper body, core, and lower body in unique ways. For instance, the "Spiderman" version of Bear shown below helps develop upper body strength, spinal mobility, and bilateral coordination.
+
+{{< video https://youtu.be/6z1yBcW1zBQ >}}
+{{< video https://youtu.be/FBkJBN6EVBw >}}
+
+
+## GMB Links
