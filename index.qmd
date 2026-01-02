@@ -38,8 +38,9 @@ listing:
 
 h1
 {
-  font-size: var(--size-site-title);
-  text-align: center;
+  font-size   : var(--size-site-title);
+  text-align  : center;
+  color       : var(--flux-color-3);
 }
 
 subtitle

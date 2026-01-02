@@ -9,12 +9,15 @@ order: 1
 ---
 
 <style>
-.flyer  { font-size : var(--size-h3);}
-strong  { color     : var(--flux-color-1); }
-.description { display: none;}
+.flyer        { font-size : var(--size-h3);}
+.description  { display: none;}
+
+@media (max-width: 768px)
+{ .hide-mobile { display: none; }
+}
 </style>
 
-::: {.grid}
+::: {.grid .center}
 ::: {.g-col-12 .g-col-md-7}
 <p class="flyer">
 Want to learn to stick a
@@ -29,18 +32,16 @@ Let me help you gain the <strong>strength</strong>, <strong>mobility</strong>, a
 
 <a class="flux-button _3" href="contact.html">Let's Do This</a>
 :::
-::: {.g-col-12 .g-col-md-5}
+::: {.g-col-12 .g-col-md-5 .text-center}
 ![](/assets/hs-tuck-silhouette-cropped.svg)
 :::
 :::
 
-
-
 ::: {.grid .center}
-::: {.g-col-12 .g-col-md-4}
-![](./assets/hs-full-silhouette.svg)
+::: {.g-col-12 .g-col-md-5}
+![](./assets/hs-full-silhouette.svg){style="padding-right: 40px" class="hide-mobile"}
 :::
-::: {.g-col-12 .g-col-md-8}
+::: {.g-col-12 .g-col-md-7}
 ## FAQ
 
 ### Why handstands?

@@ -76,7 +76,10 @@ body
   background-color  : var(--flux-bg-norm);
 }
 
-.grid.center { align-items: center; }
+.grid.center              { align-items : center;              }
+.flyer                    { font-size   : var(--size-h3);      }
+.quarto-post.image-right  { align-items : center;              }
+strong                    { color       : var(--flux-color-1); }
 
 /*--------------------------------------------------------------------*/
 /* FULL WIDTH ELEMENTS

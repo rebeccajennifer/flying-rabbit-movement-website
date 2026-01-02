@@ -2,12 +2,13 @@
 title: Services
 subtitle: >
   I specialize in locomotion flow, bodyweight strength, and handstands.
-
+image: /assets/hs-straddle-silhouette.svg
 description: >
   My coaching services include one-on-one sessions, group classes, and online programming to guide you along your movement journey.
 
 order: 2
 ---
+
 
 
 ## Online Coaching for GMB Programs
