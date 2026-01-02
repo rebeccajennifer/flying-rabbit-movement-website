@@ -1,0 +1,64 @@
+<!--___________________________________________________________________|
+|______________________________________________________________________|
+|        _   __   _   _ _   _   _   _         _                        |
+|   |   |_| | _  | | | V | | | | / |_/ |_| | /                         |
+|   |__ | | |__| |_| |   | |_| | \ |   | | | \_                        |
+|    _  _         _ ___  _       _ ___   _                    / /      |
+|   /  | | |\ |  \   |  | / | | /   |   \                    (^^)      |
+|   \_ |_| | \| _/   |  | \ |_| \_  |  _/                    (____)o   |
+|______________________________________________________________________|
+|______________________________________________________________________|
+|                                                                      |
+|----------------------------------------------------------------------|
+|   Copyright 2025, Rebecca Rashkin                                    |
+|   -------------------------------                                    |
+|   This code may be copied, redistributed, transformed, or built      |
+|   upon in any format for educational, non-commercial purposes.       |
+|                                                                      |
+|   Please give me appropriate credit should you choose to use this    |
+|   resource. Thank you :)                                             |
+|----------------------------------------------------------------------|
+|                                                                      |
+|______________________________________________________________________|
+|   //\^.^/\\  //\^.^/\\  //\^.^/\\  //\^.^/\\  //\^.^/\\  //\^.^/\\   |
+|____________________________________________________________________-->
+<!--DESCRIPTION
+|   404 page
+|____________________________________________________________________-->
+
+---
+title: "I Might Have Led You Astray..."
+toc: false
+---
+
+<style>
+.grid {
+  align-items: center;
+  font-size: var(--size-h4);
+  }
+
+@media (min-width: 768px)
+{
+  /* Some rows are flipped for desktop*/
+  .project-grid-flipped
+  {
+    display         : flex;
+    flex-direction  : row-reverse; /* This flips the horizontal order */
+  }
+
+  .grid img, .project-grid-flipped img {
+  width         : 100%;
+  aspect-ratio  : 1 / 1;
+  object-fit    : cover;
+}
+</style>
+
+::: {.grid .project-grid-flipped}
+::: {.g-col-12 .g-col-md-6}
+It looks like you've fallen down a rabbit hole. Let's hop back [home](/index.qmd).
+:::
+::: {.g-col-12 .g-col-md-6}
+[![](../assets/flux-grass-line-art-black-square.svg){.img-fluid .lite-only}](/index.qmd)
+[![](../assets/flux-grass-line-art-white-square.svg){.img-fluid .dark-only}](/index.qmd)
+:::
+:::

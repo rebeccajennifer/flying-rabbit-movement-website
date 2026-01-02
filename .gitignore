@@ -1,0 +1,3 @@
+publish/
+/.quarto/
+**/*.quarto_ipynb

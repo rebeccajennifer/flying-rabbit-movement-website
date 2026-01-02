@@ -1,0 +1,89 @@
+---
+title: Learn to Handstand
+subtitle: >
+  Handstands elevate my spirit, and I'm thrilled to help you experience this joy for yourself 🙃
+description: >
+  Handstands elevate my spirit, and I'm thrilled to help you experience this joy for yourself 🙃
+image: ./assets/hs-stag-silhouette-thumb.svg
+order: 1
+---
+
+<style>
+.flyer        { font-size : var(--size-h3);}
+.description  { display: none;}
+
+@media (max-width: 768px)
+{ .hide-mobile { display: none; }
+}
+</style>
+
+::: {.grid .center}
+::: {.g-col-12 .g-col-md-7}
+<p class="flyer">
+Want to learn to stick a
+<strong>free-standing</strong> handstand?
+<br>
+<br>
+<strong>Stuck</strong> in your solo practice?
+<br>
+<br>
+Let me help you gain the <strong>strength</strong>, <strong>mobility</strong>, and <strong>control</strong> to nail this cool party trick 🎉
+</p>
+
+<a class="flux-button _3" href="contact.html">Let's Do This</a>
+:::
+::: {.g-col-12 .g-col-md-5 .text-center}
+![](/assets/hs-tuck-silhouette-cropped.svg)
+:::
+:::
+
+::: {.grid .center}
+::: {.g-col-12 .g-col-md-5}
+![](./assets/hs-full-silhouette.svg){style="padding-right: 40px" class="hide-mobile"}
+:::
+::: {.g-col-12 .g-col-md-7}
+## FAQ
+
+### Why handstands?
+
+They cultivate smiles. They can be done anywhere. Handstand training builds a discipline that can lead to a more fulfilling life.
+
+### Can I really learn how to do a handstand?
+
+Of course! Handstands just require a specific mix of strength, mobility, and motor control. I will work with you at your level to develop these fundamental skills.
+
+### How often should I practice?
+
+You can see significant progress with just 10 minutes of practice, two to four times a week.
+
+### Are there any prerequisites?
+
+There are a few, but not as many as you might think. You just need basic wrist and shoulder mobility along with some upper body strength. Locomotion is a great place to start if you are new to being upside down. If you have concerns about specific limitations, I am happy to discuss them via email.
+
+### How will handstands help me grow?
+
+Learning this skill requires consistent, intentional practice. It teaches patience and trust in the process. These intangible results will permeate other areas of your life. I promise.
+:::
+:::
+
+<br>
+
+## Handstand Tutorial Videos
+
+### Essential Concepts
+
+This is a comprehensive tutorial that goes over almost everything you need to get upside down. In our training sessions, expect to practice many of the exercises shown here.
+
+{{< video https://youtu.be/oaB-NdQpcOc >}}
+
+### Drills
+
+The two drills that helped me the most were high frogger and the split leg kick-up.
+
+{{< video https://youtu.be/Ji99FIQWwA0 >}}
+
+### Locomotion For Handstands
+
+Animal locomotion helps you develop the strength, stability, and coordination for handstands.
+
+{{< video https://youtu.be/B__ucgFqSYs >}}
