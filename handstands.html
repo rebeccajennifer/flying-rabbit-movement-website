@@ -75,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="flux-bunny-style.css">
 <meta property="og:title" content="Learn to Handstand – Flying Rabbit Movement">
 <meta property="og:description" content="Bodyweight Coach | Values clean code and documentation. Explore personal projects and a collection of resources on computer organization, development environment, and software tools.">
-<meta property="og:image" content="./assets/hs-stag-silhouette-thumb.svg">
+<meta property="og:image" content="https://flyingrabbitmovement.com/assets/hs-stag-silhouette-thumb.svg">
 <meta property="og:site_name" content="Flying Rabbit Movement">
 </head>
 
@@ -331,7 +331,7 @@ Want to learn to stick a <strong>free-standing</strong> handstand? <br> <br> <st
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/flyingrabbitmovement\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
