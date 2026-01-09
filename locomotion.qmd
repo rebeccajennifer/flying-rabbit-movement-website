@@ -1,6 +1,7 @@
 ---
 title: Locomotion
 image: /assets/long-leg-monkey-silhouette-thumb.svg
+subtitle: Move like an animal. Feel like yourself.
 listing:
   contents: locomotion-links.yml
   type: default
@@ -21,8 +22,8 @@ order: 0
 ::: {.grid .center}
 ::: {.g-col-12 .g-col-md-4}
 <div class="quarto-title" style="border-bottom: none;">
-<p class="subtitle lead">
-Crawl your way to physical autonomy.
+<p class="flyer">
+Explore crawling patterns to build strength, mobility, and motor control while reclaiming confidence in how your body moves.
 </p>
 </div>
 

@@ -9,7 +9,7 @@ description: >
 order: 2
 ---
 
-
+![](/assets/hs-straddle-silhouette.svg)
 
 ## Online Coaching for GMB Programs
 

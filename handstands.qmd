@@ -1,7 +1,7 @@
 ---
 title: Learn to Handstand
 subtitle: >
-  Handstands elevate my spirit, and I'm thrilled to help you experience this joy for yourself 🙃
+  Elevate your spirit 🙃
 description: >
   Handstands elevate my spirit, and I'm thrilled to help you experience this joy for yourself 🙃
 image: ./assets/hs-stag-silhouette-thumb.svg
@@ -9,7 +9,6 @@ order: 1
 ---
 
 <style>
-.flyer        { font-size : var(--size-h3);}
 .description  { display: none;}
 
 @media (max-width: 768px)
@@ -48,17 +47,17 @@ Let me help you gain the <strong>strength</strong>, <strong>mobility</strong>, a
 
 They cultivate smiles. They can be done anywhere. Handstand training builds a discipline that can lead to a more fulfilling life.
 
-### Can I really learn how to do a handstand?
+### Can I really learn the handstand?
 
-Of course! Handstands just require a specific mix of strength, mobility, and motor control. I will work with you at your level to develop these fundamental skills.
+Of course! Handstands are more accessible than you might think. With basic wrist and shoulder mobility and some upper body strength, I will guide you at your level.
 
 ### How often should I practice?
 
 You can see significant progress with just 10 minutes of practice, two to four times a week.
 
-### Are there any prerequisites?
+### Where do I start?
 
-There are a few, but not as many as you might think. You just need basic wrist and shoulder mobility along with some upper body strength. Locomotion is a great place to start if you are new to being upside down. If you have concerns about specific limitations, I am happy to discuss them via email.
+Handstand training begins with [learning a cartwheel](https://www.youtube.com/shorts/B8Sa1vU7W4s).
 
 ### How will handstands help me grow?
 
