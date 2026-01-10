@@ -9,7 +9,7 @@ description: >
 order: 2
 ---
 
-
+![](/assets/hs-straddle-silhouette.svg)
 
 ## Online Coaching for GMB Programs
 
@@ -31,4 +31,4 @@ Maybe a private handstand class for your bachelorette weekend? Or a team-buildin
 
 Please, share your ideas! I am all ears 🐰​
 
-Let's discuss your needs and come up with something just for you. ​ Send me an email to set up a free consultation.
+Let's discuss your needs and come up with something just for you. Shoot me a message to set up a free consultation.
